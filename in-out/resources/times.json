@@ -1,0 +1,727 @@
+[
+    {
+        "timestamp": 1526579928,
+        "people": 10,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526580382,
+        "people": 3,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526580450,
+        "people": 7,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526580500,
+        "people": 8,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526580550,
+        "people": 12,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526580600,
+        "people": 7,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526580650,
+        "people": 2,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526580700,
+        "people": 3,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526580750,
+        "people": 7,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526580800,
+        "people": 9,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526580850,
+        "people": 6,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526580900,
+        "people": 4,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526580950,
+        "people": 5,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526581000,
+        "people": 5,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526581050,
+        "people": 7,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526581100,
+        "people": 5,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526581150,
+        "people": 12,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526581200,
+        "people": 3,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526581250,
+        "people": 11,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526581300,
+        "people": 2,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526581350,
+        "people": 4,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526581400,
+        "people": 2,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526581450,
+        "people": 4,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526581500,
+        "people": 12,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526581550,
+        "people": 11,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526581600,
+        "people": 8,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526581650,
+        "people": 5,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526581700,
+        "people": 2,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526581750,
+        "people": 10,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526581800,
+        "people": 5,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526581850,
+        "people": 1,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526581900,
+        "people": 12,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526581950,
+        "people": 3,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526582000,
+        "people": 1,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526582050,
+        "people": 4,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526582100,
+        "people": 2,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526582150,
+        "people": 9,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526582200,
+        "people": 7,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526582250,
+        "people": 5,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526582300,
+        "people": 4,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526582350,
+        "people": 9,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526582400,
+        "people": 1,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526582450,
+        "people": 10,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526582500,
+        "people": 12,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526582550,
+        "people": 9,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526582600,
+        "people": 11,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526582650,
+        "people": 5,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526582700,
+        "people": 2,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526582750,
+        "people": 11,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526582800,
+        "people": 4,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526582850,
+        "people": 7,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526582900,
+        "people": 1,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526582950,
+        "people": 8,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526583000,
+        "people": 8,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526583050,
+        "people": 1,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526583100,
+        "people": 11,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526583150,
+        "people": 11,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526583200,
+        "people": 1,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526583250,
+        "people": 9,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526583300,
+        "people": 10,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526583350,
+        "people": 2,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526583400,
+        "people": 10,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526583450,
+        "people": 2,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526583500,
+        "people": 10,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526583550,
+        "people": 1,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526583600,
+        "people": 8,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526583650,
+        "people": 10,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526583700,
+        "people": 2,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526583750,
+        "people": 1,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526583800,
+        "people": 9,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526583850,
+        "people": 3,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526583900,
+        "people": 3,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526583950,
+        "people": 11,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526584000,
+        "people": 3,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584050,
+        "people": 12,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584100,
+        "people": 12,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526584150,
+        "people": 1,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584200,
+        "people": 1,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584250,
+        "people": 6,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526584300,
+        "people": 8,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584350,
+        "people": 9,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526584400,
+        "people": 3,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584450,
+        "people": 8,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584500,
+        "people": 2,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526584550,
+        "people": 11,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584600,
+        "people": 11,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526584650,
+        "people": 8,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584700,
+        "people": 5,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584750,
+        "people": 9,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526584800,
+        "people": 12,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584850,
+        "people": 2,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584900,
+        "people": 9,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526584950,
+        "people": 1,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526585000,
+        "people": 1,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585050,
+        "people": 9,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585100,
+        "people": 12,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585150,
+        "people": 3,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585200,
+        "people": 3,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526585250,
+        "people": 3,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585300,
+        "people": 5,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585350,
+        "people": 7,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585400,
+        "people": 6,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585450,
+        "people": 8,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585500,
+        "people": 9,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585550,
+        "people": 3,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526585600,
+        "people": 10,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526585650,
+        "people": 7,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526585700,
+        "people": 8,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585750,
+        "people": 9,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526585800,
+        "people": 2,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585850,
+        "people": 1,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526585900,
+        "people": 4,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526585950,
+        "people": 2,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526590000,
+        "people": 6,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526590050,
+        "people": 10,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526591300,
+        "people": 7,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526592550,
+        "people": 12,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526593800,
+        "people": 9,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526595050,
+        "people": 6,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526596300,
+        "people": 12,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526597550,
+        "people": 11,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526598800,
+        "people": 9,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526600050,
+        "people": 11,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526601300,
+        "people": 9,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526602550,
+        "people": 1,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526603800,
+        "people": 7,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526605050,
+        "people": 2,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526606300,
+        "people": 9,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526607550,
+        "people": 2,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526608800,
+        "people": 8,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526610050,
+        "people": 2,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526611300,
+        "people": 1,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526612550,
+        "people": 3,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526613800,
+        "people": 12,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526615050,
+        "people": 9,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526616300,
+        "people": 2,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526617550,
+        "people": 7,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526618800,
+        "people": 3,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526620050,
+        "people": 10,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526621300,
+        "people": 4,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526622550,
+        "people": 1,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526623800,
+        "people": 12,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526625050,
+        "people": 2,
+        "type": "in"
+    },
+    {
+        "timestamp": 1526626300,
+        "people": 9,
+        "type": "out"
+    },
+    {
+        "timestamp": 1526627550,
+        "people": 7,
+        "type": "out"
+    }
+]
